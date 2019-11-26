@@ -1,4 +1,4 @@
-*{margin: 0; padding: 0;} 
+*{margin: 0; padding: 0;}  /* font-family: 'Inconsolata', monospace; */
  .logoaboutme{
 	text-transform: capitalize;
 	font-size: 40px;
@@ -12,4 +12,31 @@
 }
 .menutop .container {
 	overflow: hidden;
+}
+.menutop .navbar {
+	background: #efefef;
+}
+.navbar .nav-item .nav-link {
+	padding-top: 15px;
+	font-size: 25px;
+	padding-right: 12px;
+	padding-left: 12px;
+	font-family: 'Inconsolata', monospace;
+	text-transform: uppercase
+}
+
+@media (max-width: 576px) {
+	*{}
+
+ul.nav.navbar-nav.float-xs-right {
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+.logoaboutme.wow.fadeInUp.animated {
+    text-align: center;
+    display: block;
+}
+	
 }
