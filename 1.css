@@ -1,1 +1,15 @@
 *{margin: 0; padding: 0;} 
+ .logoaboutme{
+	text-transform: capitalize;
+	font-size: 40px;
+	font-style: italic;
+	font-family:  'Montserrat', sans-serif;
+	font-weight: bold;
+	color: #d23a3a;
+}
+.logoaboutme .chudo {
+	color: black;
+}
+.menutop .container {
+	overflow: hidden;
+}
