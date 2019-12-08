@@ -1,4 +1,4 @@
 ﻿ $(function(){
- 
+ 	new WOW().init();
 })  
  
