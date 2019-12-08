@@ -97,7 +97,7 @@
 @media (max-width: 576px) {
 	*{}
 
-ul.nav.navbar-nav.float-xs-right {
+ul.nav.navbar-nav.float-sm-right {
     text-align: center;
     display: block;
     width: 100%;
@@ -107,5 +107,14 @@ ul.nav.navbar-nav.float-xs-right {
     text-align: center;
     display: block;
 }
-	
+.tt img {
+	width: 150px;
+	height: 150px;
+}
+.tt h2 {
+	font-size: 30px;
+}
+.tt p {
+	font-size: 20px;
+}
 }
