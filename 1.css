@@ -94,6 +94,43 @@
 	font-family: 'Baskervville', serif;
 	text-transform: uppercase;
 }
+/* css cho infome */
+.big-title {
+	padding-top: 120px;
+	margin-bottom: 100px;
+}
+.big-title h1 {
+	font-size: 50px;
+	text-transform: uppercase;
+}
+h2.titlelevel2 {
+	font-weight: normal;
+	font-family: segoe ui light;
+	text-transform: uppercase;
+	font-size: 28px;
+	margin-bottom: 40px;
+}
+span.dam {
+	font-weight: bold;
+}
+.khoitextnho h3.titlelevel3 {
+	font-size: 20px;
+	color: #e35855;
+	margin-bottom: 20px;
+}
+span.description {
+	font-size: 13px;
+	padding-bottom: 26px;
+	display: block;
+}
+.khoitextnho p {
+	font-size: 13px;
+	line-height: 22px;
+	color:#b9b6b6;
+}
+.khoitextnho {
+	margin-bottom: 55px;
+}
 @media (max-width: 576px) {
 	*{}
 
