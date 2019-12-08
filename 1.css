@@ -131,6 +131,10 @@ span.description {
 .khoitextnho {
 	margin-bottom: 55px;
 }
+.infome img {
+	width: 100%;
+	height: 585px;
+}
 @media (max-width: 576px) {
 	*{}
 
@@ -153,5 +157,10 @@ ul.nav.navbar-nav.float-sm-right {
 }
 .tt p {
 	font-size: 20px;
+}
+.infome img {
+	width: 100%;
+	height: 400px;
+	margin-bottom: 80px;
 }
 }
